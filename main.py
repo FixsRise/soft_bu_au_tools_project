@@ -1,5 +1,4 @@
-print("Hellow GIT")
 
-print()
 
-print()
+for i in range(5):
+    print("Hellow GIT")
