@@ -10,5 +10,7 @@ print("Data for second bracn")
 print("Data for second bracn")
 print("Data for second bracn")
 
+print()
+
 print("Data for third branch")
 print("Data for third branch")
